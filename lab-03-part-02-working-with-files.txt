@@ -197,8 +197,9 @@ less will show part of the informcation in the txt files, and more will show all
 
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
-
-
+loss and more show only part of the information in the txt files
+head and tail is only show the header and ending of the information in the txt files
+cat is to show all the infomation in the the txt files
 
 ==========
 21.  How many words are in pg1232.txt?  What command did you use to determine the word count?
@@ -210,3 +211,5 @@ wc books/other/pg1232.txt
 ==========
 22.  How many lines are in pg1232.txt?  What command did you use to determine the line count?
 ----------
+
+52639
